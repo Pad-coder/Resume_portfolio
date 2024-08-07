@@ -1,8 +1,27 @@
-# React + Vite
+# Resume Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the source code for my personal resume website, showcasing my skills, projects, and experiences as a full-stack developer.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Home:** Brief introduction
+- **About:** Background and skills
+- **Resume:** Professional experience and education
+- **Blog:** Technical articles and insights
+- **Contact:** Contact form and social media links
+
+## Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Deployment:** Netlify/Vercel/GitHub Pages
+
+## Contact
+
+- **LinkedIn:** [Linkedin.com/in/padmanaban2002](https://linkedin.com/in/padmanaban2002)
+- **Twitter:** [Twitter.com/pad_coder](https://twitter.com/pad_coder)
+- **Email:** [Padmanaban870@gmail.com](mailto:padmanaban870@gmail.com)
+
+Thank you for checking out my resume website repository!
+
+
+
